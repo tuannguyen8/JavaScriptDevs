@@ -1,0 +1,32 @@
+.myimg{
+    width: 300px;
+}
+.my-div{
+    width: 40vw;
+    margin-top: 20px !important;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    background-color: aquamarine;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.my-div:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;;
+}
+.my-div-img, .my-div-ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    
+}
+
+
+.my-container{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: silver; */
+}

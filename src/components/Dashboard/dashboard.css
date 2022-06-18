@@ -1,0 +1,45 @@
+.div-Dashboard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.render-all{
+  /* width: 300px; */
+  display: flex;
+  flex-wrap: wrap;
+  /* align-items: center;
+  justify-content: space-between; */
+}
+.each-card{
+  width: 300px;
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+  background-color: aquamarine !important;
+  padding-top:7px !important;
+}
+
+.paginated-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.each-page-btn{
+  margin: 0px 2px 20px 2px;
+}
+
+.userInfo{
+  margin-top: 5px;
+  padding: 0px;
+}
+
+.nav-pagi{
+  justify-content: center;
+  align-items: center;
+}
+.span-title{
+  font-weight: 700;
+}

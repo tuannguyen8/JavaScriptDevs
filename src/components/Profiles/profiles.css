@@ -1,0 +1,39 @@
+.div-profile{
+  /* width: 40vw; */
+  margin-top: 20px;
+}
+
+.div-render-all{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.render-all-profile{
+  /* width: 300px; */
+  display: flex;
+  flex-wrap: wrap;
+  /* align-items: center;
+  justify-content: space-between; */
+}
+.each-card-profile{
+  width: 300px;
+  height: 400px;
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+  background-color: aquamarine !important;
+  padding-top:7px !important;
+}
+
+.user-info-profile{
+  width: 100%;
+  padding: 10px;
+  text-overflow: ellipsis;
+  overflow: auto;
+  white-space: nowrap;
+}
+.each-page-btn{
+  margin: 0px 2px 20px 2px;
+}

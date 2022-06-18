@@ -1,0 +1,23 @@
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+}
+.nav-a{
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+a:visited {
+  color: green;
+}
+.nav-a:hover{
+    background-color: rgb(241, 194, 234);
+}
+a:hover {
+  color: hotpink;
+}
